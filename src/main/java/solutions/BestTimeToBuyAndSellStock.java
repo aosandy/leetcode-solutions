@@ -4,7 +4,7 @@ package solutions;
  * 121. Best Time to Buy and Sell Stock
  */
 
-public class BestTimeToBuyandSellStock {
+public class BestTimeToBuyAndSellStock {
     public static void main(String[] args) {
         int[] nums = {7,1,5,3,6,4};
         System.out.println(maxProfit(nums));

@@ -1,7 +1,6 @@
 package solutions;
 
 import java.util.HashMap;
-import java.util.List;
 
 /**
  * 205. Isomorphic Strings

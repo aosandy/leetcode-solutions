@@ -1,6 +1,5 @@
 package solutions;
 
-
 /**
  * 704. Binary Search
  */

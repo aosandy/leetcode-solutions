@@ -1,3 +1,5 @@
 # LeetCode Solutions
 
-Repository with solutions to LeetCode problems
+Repository with my solutions to LeetCode problems
+
+[My LeetCode profile](https://leetcode.com/aosandy/)
